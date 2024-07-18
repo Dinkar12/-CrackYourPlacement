@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
