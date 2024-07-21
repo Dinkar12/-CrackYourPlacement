@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
