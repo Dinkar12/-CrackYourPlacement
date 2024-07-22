@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
@@ -184,5 +186,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
