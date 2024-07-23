@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Recursion
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
