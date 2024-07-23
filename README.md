@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1117-as-far-from-land-as-possible](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1117-as-far-from-land-as-possible](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1117-as-far-from-land-as-possible](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1117-as-far-from-land-as-possible](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Union Find
