@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
