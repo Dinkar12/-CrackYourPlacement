@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
