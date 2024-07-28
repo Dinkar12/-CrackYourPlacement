@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
+| [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
