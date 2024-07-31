@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Matrix
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
