@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
 | ------- |
@@ -338,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
