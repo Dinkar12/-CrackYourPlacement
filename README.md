@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0086-partition-list) |
