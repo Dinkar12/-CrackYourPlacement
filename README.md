@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
