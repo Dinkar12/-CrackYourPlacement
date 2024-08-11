@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0546-remove-boxes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -251,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
