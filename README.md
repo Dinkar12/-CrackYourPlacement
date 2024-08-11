@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
