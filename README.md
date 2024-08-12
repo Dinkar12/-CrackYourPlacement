@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Depth-First Search
 |  |
@@ -413,4 +415,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
