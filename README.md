@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
@@ -413,10 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
