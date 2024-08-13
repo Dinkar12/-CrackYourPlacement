@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
