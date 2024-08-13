@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Shortest Path
 |  |
@@ -423,9 +427,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
