@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
+| [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Shortest Path
 |  |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
