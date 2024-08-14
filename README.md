@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Shortest Path
 |  |
@@ -453,8 +455,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
