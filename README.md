@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
