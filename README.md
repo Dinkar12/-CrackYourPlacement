@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Shortest Path
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Hash Function
 |  |
