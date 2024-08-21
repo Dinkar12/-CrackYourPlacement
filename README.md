@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0546-remove-boxes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0546-remove-boxes) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
