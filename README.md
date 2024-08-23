@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -220,12 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
@@ -591,4 +597,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
