@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
