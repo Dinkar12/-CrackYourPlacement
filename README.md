@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
