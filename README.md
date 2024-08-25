@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
