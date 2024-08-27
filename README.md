@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Greedy
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Prefix Sum
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Backtracking
 |  |
 | ------- |
