@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 ## Biconnected Component
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
