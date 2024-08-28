@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [0972-knight-dialer](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1117-as-far-from-land-as-possible](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Dinkar12/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
